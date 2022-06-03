@@ -12,6 +12,8 @@ Part 4: Practice keyboard shortcuts
 
 Part 5: Create your first Node.js server-side JavaScript file
 
+
+
 Lab Deliverables:
 
 ### 1. lab-01-folders.png
