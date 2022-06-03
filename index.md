@@ -1,5 +1,7 @@
 # Lab 1
 
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
+
 ## Lab goals and outcomes:
 
 Part 1: Install and setup your personal computer with the software tools required for this course
